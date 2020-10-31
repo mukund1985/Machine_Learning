@@ -3,7 +3,9 @@
 ## Practice Topics
 
 - Python Crash Course
-- Python for Data Analysis - Numpy and Pandas
+- Python for Data Analysis 
+    - Numpy
+    - Pandas
 - Python for Data Visualization 
     - Matplotlib
     - Seaborn
