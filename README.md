@@ -2,14 +2,22 @@
 
 ## Practice Topics
 
-- Data Extraction, Wrangling and Visualisation
-- Introduction to Machine Learning with Python
-- Supervised Learning - 1
-- Dimensionality Reduction
-- Supervised Learning -2
-- Unsupervised Learning 
-- Association Rules Mining and Recommendation Systems
-- Reinforement Learning
-- Time Series Analysis
-- Model Selection and Boosting
-- Entire Project
+- Python Crash Course
+- Python for Data Analysis - Numpy and Pandas
+- Python for Data Visualization 
+    - Matplotlib
+    - Seaborn
+    - Pandas Built-in Data Visualisation
+    - Plotly and Cuffinks
+    - Gographical Plotting
+- Data Capston Project
+- Linear Regression
+- K Nearest Neighbors
+- Decision Trees and Random Forests
+- Support Vector Machines
+- K Means Clustering
+- Principle Component Analysis
+- Recommender System
+- Natural Language Processing
+- Neural Nets and Deep Learning
+- Big Data and Spark with Python
